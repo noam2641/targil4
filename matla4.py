@@ -1,7 +1,7 @@
 import requests
 text = open('dests.txt', 'r', encoding='utf-8')
 origins = 'תל אביב'
-key = 'AIzaSyDne6CM1JSBmbq2zkWaW19l3BMk3xNqC_E'
+key = 'enter your api key'
 response = dict()
 distan = dict()
 summery = dict()
